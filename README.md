@@ -44,11 +44,6 @@ python -m http.server 8000
 
 Keep gallery images around 1000&nbsp;px wide and saved as JPEG so the page stays fast.
 
-## To do
-
-- Replace the Facebook link (currently a search URL) with the page's real URL —
-  search for `TODO` in `index.html`.
-
 ## Deployment
 
 Pushing to `main` publishes automatically via GitHub Pages (Settings → Pages →
