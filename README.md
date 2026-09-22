@@ -4,7 +4,7 @@ A single-page static site for **Vivid Horizons Sri Lanka** (Art & Travel Experie
 handmade pencil portraits, canvas paintings, digital art, cover art and wall art,
 with island-wide delivery.
 
-**Live site:** https://miyurukariyawasam.github.io/vivid-horizons-srilanka/
+**Live site:** https://vividhorizonssl.github.io/vivid-horizons-srilanka/
 
 ## What's on the page
 
